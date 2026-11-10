@@ -14,20 +14,3 @@ def print_board(board):
         print(f"[{first + 1}] {cell1} | [{first + 2}] {cell2} | [{first + 3}] {cell3}")
         if row < 2:
             print("------+-------+------")
-
-
-
-
-
-
-
-
-            
-"""board = create_board()
-
-print_board(board)
-
-board[4] = "X"
-
-print()
-print_board(board)"""
